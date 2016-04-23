@@ -1,3 +1,4 @@
+## Shuping Peng
 ## The pair of functions is able to cache the inverse of a matrix
 
 ## Function makeCacheMatrix creates a special "matrix" object that can cache the inverse of the matrix
